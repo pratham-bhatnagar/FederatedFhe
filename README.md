@@ -1,9 +1,9 @@
 ## FLuFHE - Federated Leaning using FHE
 
+[Deployed Contract Txn](https://demoexplorer.fhenix.io/tx/0x8a5de7943a02330951c4f0130cc998e0bc30a1121008aa35cdee9867217b0ebb)
 
-![Alt text](./demo/pic4.png "High Level Architecture")
+![Alt text](./demo/demo3.png "High Level Architecture")
 
-[A Video Demo is worth a thousand words 👾](https://vimeo.com/892092134?share=copy)
 
 ---
 > FLuFHE - Federated Learning using FHE to use decentralized model training and protect it against inference and stealth attacks.
@@ -54,11 +54,6 @@ Utilizing Fully Homomorphic Encryption (FHE) in Federated Learning models brings
 - Python
 - Numpy
 
-## Screens
- > Model Init Screen
-![Alt text](./demo/pic5.png "High Level Architecture")
 
- > Add Encrypted Weights Data
-![Alt text](./demo/p8.jpeg "High Level Architecture")
 
 #### Built by team Bruhma 👾
